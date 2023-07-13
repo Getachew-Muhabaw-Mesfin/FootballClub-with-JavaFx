@@ -31,3 +31,16 @@ The project consit of managing palyer's information, coach information team stat
 
 ![App Screenshot](https://github.com/Getachew-Muhabaw-Mesfin/FootballClub-with-JavaFx/blob/main/screenshots/display%20player%20ifnotmation.jpg?raw=true)
 
+
+## Honer page
+
+![App Screenshot](https://github.com/Getachew-Muhabaw-Mesfin/FootballClub-with-JavaFx/blob/main/screenshots/honer%20page.jpg?raw=true)
+
+## Coach Page
+
+![App Screenshot](https://github.com/Getachew-Muhabaw-Mesfin/FootballClub-with-JavaFx/blob/main/screenshots/coach%20page.jpg?raw=true)
+
+## Training Schedule
+
+![App Screenshot](https://github.com/Getachew-Muhabaw-Mesfin/FootballClub-with-JavaFx/blob/main/screenshots/training.jpg?raw=true)
+
