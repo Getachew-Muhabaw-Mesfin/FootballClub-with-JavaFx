@@ -1,6 +1,6 @@
 # Football Managemenet in Java FX
 
-The project consit of managing palyer's information, coach information team statistc, team statstica and authentication also using Java, JavaFx and MySQL as databasle
+The project consist of managing palyer's information, coach information team statistc, team statstica and authentication also using Java, JavaFx and MySQL as databasle
 
 
 ## Screenshots
