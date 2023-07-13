@@ -1,0 +1,12 @@
+#clubs{
+	 -fx-background-image:url("ball3.jpg");
+	  -fx-background-repeat: stretch;
+      -fx-background-size: 1600 1000;
+	
+}
+/*hover effect */
+HBox Button:hover{
+	   -fx-background-color:green;
+	   -fx-text-fill:blue;
+
+}
